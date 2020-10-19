@@ -1,2 +1,1 @@
-# discord-selfxss-token-grabber
-Javascript discord selfxss token grabber (Win + shift + tab -> Console -> enter the scrpt)
+# Some cool javascript stealer made by me (Console Tab -> paste)
